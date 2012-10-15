@@ -1,0 +1,280 @@
+{
+    "description": "",
+    "private": true,
+    "privateTheme": true,
+    "dimensions": [
+        472,
+        72,
+        1
+    ],
+    "gridSize": 8,
+    "children": {},
+    "positions": {
+        "sm2": {
+            "matrix": [
+                56,
+                0,
+                0,
+                0,
+                0,
+                56,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                71.99998474121094,
+                7.999996662139893,
+                0,
+                1
+            ],
+            "order": 1,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "sm3": {
+            "matrix": [
+                56,
+                0,
+                0,
+                0,
+                0,
+                56,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                7.999988555908203,
+                7.999996662139893,
+                0,
+                1
+            ],
+            "order": 0,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "sm1": {
+            "matrix": [
+                56,
+                0,
+                0,
+                0,
+                0,
+                56,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                135.99998474121094,
+                7.999996662139893,
+                0,
+                1
+            ],
+            "order": 2,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "s": {
+            "matrix": [
+                72,
+                0,
+                0,
+                0,
+                0,
+                72,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                199.99998474121094,
+                -0.0000033974647521972656,
+                0,
+                1
+            ],
+            "order": 3,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "sp1": {
+            "matrix": [
+                56,
+                0,
+                0,
+                0,
+                0,
+                56,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                280,
+                7.999996662139893,
+                0,
+                1
+            ],
+            "order": 4,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "sp2": {
+            "matrix": [
+                56,
+                0,
+                0,
+                0,
+                0,
+                56,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                344,
+                7.999996662139893,
+                0,
+                1
+            ],
+            "order": 5,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "sp3": {
+            "matrix": [
+                56,
+                0,
+                0,
+                0,
+                0,
+                56,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                408,
+                7.999996662139893,
+                0,
+                1
+            ],
+            "order": 6,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "sm4": {
+            "matrix": [
+                56.000003814697266,
+                0,
+                0,
+                0,
+                0,
+                56,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                -56,
+                8,
+                0,
+                1
+            ],
+            "order": 7,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "sp4": {
+            "matrix": [
+                56.000003814697266,
+                0,
+                0,
+                0,
+                0,
+                56,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                472,
+                8,
+                0,
+                1
+            ],
+            "order": 8,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        }
+    },
+    "theme": {},
+    "overflowX": "visible",
+    "overflowY": "visible",
+    "privateVisual": false,
+    "privateStyles": false
+}

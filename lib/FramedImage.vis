@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "private": true,
+    "privateTheme": true,
+    "dimensions": [
+        600,
+        400,
+        0
+    ],
+    "gridSize": 8,
+    "children": {
+        "image": {
+            "factory": "domvisual",
+            "type": "DOMImg",
+            "config": {
+                "position": "image"
+            }
+        },
+        "background": {
+            "factory": "domvisual",
+            "type": "DOMElement",
+            "config": {
+                "position": "background",
+                "innerText": "",
+                "style": "frame"
+            }
+        }
+    },
+    "positions": {
+        "image": {
+            "matrix": [
+                568,
+                0,
+                0,
+                0,
+                0,
+                368,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                16,
+                16,
+                0,
+                1
+            ],
+            "order": 1,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "background": {
+            "matrix": [
+                600,
+                0,
+                0,
+                0,
+                0,
+                400,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "order": 0,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        }
+    },
+    "theme": {
+        "frame": {
+            "jsData": {
+                "backgroundColor": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1
+                },
+                "boxShadow": {
+                    "offsetX": 0,
+                    "offsetY": 0,
+                    "blurRadius": 10,
+                    "spreadRadius": 0,
+                    "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 1
+                    }
+                }
+            }
+        }
+    },
+    "overflowX": "visible",
+    "overflowY": "visible"
+}

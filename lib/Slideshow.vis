@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "private": true,
+    "privateTheme": true,
+    "dimensions": [
+        600,
+        400,
+        0
+    ],
+    "gridSize": 8,
+    "children": {},
+    "positions": {
+        "center": {
+            "matrix": [
+                600,
+                0,
+                0,
+                0,
+                0,
+                400,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "order": 0,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "left": {
+            "matrix": [
+                600,
+                0,
+                0,
+                0,
+                0,
+                400,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                -600,
+                0,
+                0,
+                1
+            ],
+            "order": 3,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "bottom": {
+            "matrix": [
+                600,
+                0,
+                0,
+                0,
+                0,
+                400,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                400,
+                0,
+                1
+            ],
+            "order": 2,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "right": {
+            "matrix": [
+                600,
+                0,
+                0,
+                0,
+                0,
+                400,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                600,
+                0,
+                0,
+                1
+            ],
+            "order": 1,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "top": {
+            "matrix": [
+                600,
+                0,
+                0,
+                0,
+                0,
+                400,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -400,
+                0,
+                1
+            ],
+            "order": 4,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        }
+    },
+    "theme": {},
+    "overflowX": "visible",
+    "overflowY": "visible"
+}

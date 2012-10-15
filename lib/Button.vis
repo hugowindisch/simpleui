@@ -1,0 +1,239 @@
+{
+    "description": "",
+    "private": true,
+    "privateTheme": true,
+    "dimensions": [
+        600,
+        400,
+        1
+    ],
+    "gridSize": 8,
+    "children": {
+        "label": {
+            "factory": "domvisual",
+            "type": "DOMElement",
+            "config": {
+                "position": "label",
+                "innerText": "",
+                "style": "label"
+            }
+        },
+        "background": {
+            "factory": "domvisual",
+            "type": "DOMElement",
+            "config": {
+                "position": "background",
+                "innerText": "",
+                "style": "normal"
+            }
+        }
+    },
+    "positions": {
+        "label": {
+            "matrix": [
+                568,
+                0,
+                0,
+                0,
+                0,
+                368,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                16,
+                16,
+                0,
+                1
+            ],
+            "order": 1,
+            "snapping": {
+                "left": "%",
+                "right": "%",
+                "width": "auto",
+                "top": "%",
+                "bottom": "%",
+                "height": "auto"
+            }
+        },
+        "background": {
+            "matrix": [
+                600,
+                0,
+                0,
+                0,
+                0,
+                400,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "order": 0,
+            "snapping": {
+                "left": "px",
+                "right": "px",
+                "width": "auto",
+                "top": "px",
+                "bottom": "px",
+                "height": "auto"
+            }
+        }
+    },
+    "theme": {
+        "highlight": {
+            "jsData": {
+                "backgroundImage": [
+                    {
+                        "colors": [
+                            {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1
+                            },
+                            {
+                                "r": 200,
+                                "g": 200,
+                                "b": 200,
+                                "a": 1
+                            }
+                        ],
+                        "stops": [
+                            1,
+                            0.035
+                        ],
+                        "type": "vertical"
+                    }
+                ],
+                "backgroundSize": [
+                    null
+                ],
+                "backgroundRepeat": [
+                    null
+                ],
+                "borderTopLeftRadius": 20,
+                "borderTopRightRadius": 20,
+                "borderBottomLeftRadius": 20,
+                "borderBottomRightRadius": 20,
+                "boxShadow": {
+                    "offsetX": 0,
+                    "offsetY": 0,
+                    "blurRadius": 20,
+                    "spreadRadius": 0,
+                    "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 119.53125,
+                        "a": 1
+                    }
+                }
+            }
+        },
+        "normal": {
+            "jsData": {
+                "backgroundImage": [
+                    {
+                        "colors": [
+                            {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1
+                            },
+                            {
+                                "r": 200,
+                                "g": 200,
+                                "b": 200,
+                                "a": 1
+                            }
+                        ],
+                        "stops": [
+                            1,
+                            0
+                        ],
+                        "type": "vertical"
+                    }
+                ],
+                "backgroundSize": [
+                    null
+                ],
+                "backgroundRepeat": [
+                    null
+                ],
+                "borderTopLeftRadius": 20,
+                "borderTopRightRadius": 20,
+                "borderBottomLeftRadius": 20,
+                "borderBottomRightRadius": 20,
+                "boxShadow": {
+                    "offsetX": 0,
+                    "offsetY": 0,
+                    "blurRadius": 20,
+                    "spreadRadius": 0,
+                    "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 1
+                    }
+                }
+            }
+        },
+        "pressed": {
+            "jsData": {
+                "backgroundImage": [
+                    {
+                        "colors": [
+                            {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1
+                            },
+                            {
+                                "r": 160,
+                                "g": 160,
+                                "b": 160,
+                                "a": 1
+                            }
+                        ],
+                        "stops": [
+                            1,
+                            0
+                        ],
+                        "type": "vertical"
+                    }
+                ],
+                "backgroundSize": [
+                    null
+                ],
+                "backgroundRepeat": [
+                    null
+                ],
+                "borderTopLeftRadius": 20,
+                "borderTopRightRadius": 20,
+                "borderBottomLeftRadius": 20,
+                "borderBottomRightRadius": 20
+            }
+        },
+        "label": {
+            "jsData": {
+                "fontFamily": "sans-serif",
+                "fontSize": 20,
+                "textAlign": "center"
+            }
+        }
+    },
+    "overflowX": "visible",
+    "overflowY": "visible",
+    "privateVisual": false,
+    "privateStyles": false
+}
