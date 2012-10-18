@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "private": true,
+    "privateTheme": true,
+    "dimensions": [
+        120,
+        25,
+        1
+    ],
+    "gridSize": 8,
+    "children": {},
+    "positions": {},
+    "theme": {},
+    "overflowX": "visible",
+    "overflowY": "visible",
+    "privateVisual": false,
+    "privateStyles": false
+}
