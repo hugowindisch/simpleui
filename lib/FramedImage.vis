@@ -1,11 +1,11 @@
 {
-    "description": "",
-    "private": true,
+    "description": "An image with a white frame",
+    "private": false,
     "privateTheme": true,
     "dimensions": [
         600,
         400,
-        0
+        1
     ],
     "gridSize": 8,
     "children": {
@@ -111,5 +111,7 @@
         }
     },
     "overflowX": "visible",
-    "overflowY": "visible"
+    "overflowY": "visible",
+    "privateVisual": false,
+    "privateStyles": false
 }

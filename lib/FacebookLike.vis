@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "private": true,
+    "description": "A facebook Like button",
+    "private": false,
     "privateTheme": true,
     "dimensions": [
         450,

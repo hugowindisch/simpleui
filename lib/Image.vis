@@ -1,13 +1,18 @@
 {
-    "description": "",
+    "description": "An image with an optional link",
     "private": true,
     "privateTheme": true,
     "dimensions": [
         600,
         400,
-        0
+        1
     ],
     "gridSize": 8,
     "children": {},
-    "positions": {}
+    "positions": {},
+    "theme": {},
+    "overflowX": "visible",
+    "overflowY": "visible",
+    "privateVisual": false,
+    "privateStyles": false
 }

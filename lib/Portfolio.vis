@@ -1,13 +1,18 @@
 {
-    "description": "",
-    "private": true,
+    "description": "A grid of images that can be expanded",
+    "private": false,
     "privateTheme": true,
     "dimensions": [
         600,
         400,
-        0
+        1
     ],
     "gridSize": 8,
     "children": {},
-    "positions": {}
+    "positions": {},
+    "theme": {},
+    "overflowX": "visible",
+    "overflowY": "visible",
+    "privateVisual": false,
+    "privateStyles": false
 }

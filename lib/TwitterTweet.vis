@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "private": true,
+    "description": "A Twitter Tweet button",
+    "private": false,
     "privateTheme": true,
     "dimensions": [
         120,
