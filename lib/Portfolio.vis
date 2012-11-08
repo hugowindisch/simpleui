@@ -1,5 +1,5 @@
 {
-    "description": "A grid of images that can be expanded",
+    "description": "A grid of images",
     "private": false,
     "privateTheme": true,
     "dimensions": [

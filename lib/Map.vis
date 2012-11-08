@@ -1,0 +1,53 @@
+{
+    "description": "A googlemaps map",
+    "private": true,
+    "privateTheme": true,
+    "dimensions": [
+        600,
+        400,
+        1
+    ],
+    "gridSize": 8,
+    "children": {
+        "map": {
+            "factory": "domvisual",
+            "type": "DOMElement",
+            "config": {
+                "position": "map",
+                "innerHTML": ""
+            }
+        }
+    },
+    "positions": {
+        "map": {
+            "matrix": [
+                600,
+                0,
+                0,
+                0,
+                0,
+                400,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "order": 0,
+            "snapping": {
+                "left": "px",
+                "right": "px",
+                "width": "auto",
+                "top": "px",
+                "bottom": "px",
+                "height": "auto"
+            }
+        }
+    },
+    "theme": {}
+}
